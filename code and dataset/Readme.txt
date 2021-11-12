@@ -1,8 +1,8 @@
 ﻿CPTS_570 Machine Learning, Fall 2019
 Final Project : Supervised Learning Approach on Twitter Users’ Gender Classification
 The authors:
-1. Geeratigan Arsanathong ID: 11600765
-2. Minjian Li ID : 11616336
+1. Geeratigan Arsanathong 
+2. Minjian Li 
 
 Date: Dec 8, 2019
 =======================================================
